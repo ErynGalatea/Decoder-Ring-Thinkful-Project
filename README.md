@@ -1,5 +1,7 @@
 # Decoder-Ring-Thinkful-Project
 
+Secret messages used to be all the rage back in the day! Kids would send them to each other so nobody could tell what they were saying, and even the military still uses them on a daily basis to ensure classified secrets don't get leaked. Message encryption is a huge part of modern society, and this app features 3 specific ciphers for you to try out. 
+
 # The Caesar Shift
 
 ![image](https://user-images.githubusercontent.com/107448653/190701941-55211243-2ee4-43d6-a4f6-9ec77bbc4561.png)
